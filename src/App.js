@@ -260,7 +260,7 @@ function App() {
                 </li>
               </ul>
               <p className="text-muted small mb-4 mb-lg-0">
-                &copy; Your Website 2021. All Rights Reserved.
+                &copy; Keyshop 2022. All Rights Reserved.
               </p>
             </div>
           </div>
